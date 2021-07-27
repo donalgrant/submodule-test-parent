@@ -1,3 +1,0 @@
-[submodule "jenkins-submodule"]
-	path = jenkins-submodule
-	url = https://github.com/donalgrant/jenkins-submodule
